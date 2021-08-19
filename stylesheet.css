@@ -1,3 +1,14 @@
+html{
+    box-sizing: border-box;
+}
+* {
+    box-sizing: inherit;
+}
+
+
+
+
+
 .roter-text{
     color: red;
     font-family: 'Courier New', Courier, monospace;
